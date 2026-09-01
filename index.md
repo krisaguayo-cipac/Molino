@@ -5,7 +5,7 @@ title: Welcome
 
 # Welcome to Molino
 
-This is a minimal Jekyll starter site for molino.digital. Edit the files in this repository to update the content.
+A 'Molino' is a Mill in spanish. Mills process raw substances to turn them into something useful. This project aims to do something similar. I was inspired by stories of my mother, who as a child would walk down to the community mill to prepare corn for nixtamilzation. 
 
 - Homepage: index.md
 - Layouts: _layouts/default.html
