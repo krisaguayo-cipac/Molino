@@ -1,17 +1,21 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>{{ page.title }} | {{ site.title }}</title>
-    <link rel="stylesheet" href="{{ "/assets/css/styles.css" | relative_url }}">
-  </head>
-  <body>
-    <header class="site-header">
-      <div class="wrap">
-        <h1 class="site-title"><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
-      </div>
-    </header>
+<header class="site-header">
+  <div class="wrap">
+    <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+
+    <nav class="site-nav" aria-label="Main navigation">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/about/' | relative_url }}">About</a>
+      <a href="{{ '/contact/' | relative_url }}">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<style>
+.site-nav{margin-top:.5rem}
+.site-nav a{margin-right:1rem;color:var(--accent);text-decoration:none}
+</style>
 
     <main class="wrap">
       {{ content }}
