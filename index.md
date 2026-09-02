@@ -18,12 +18,14 @@ Below is a summary of pages you will find in development.
 This interactive tool generates a personalized 260-day Tonalpohualli calendar starting from any date the user chooses. It's designed to encourage observation, reflection, and connection with the ancestral timekeeping traditions of Mesoamerica.
 
 <h2>What Users Will Find:</h2>  
-- A date input field to select any starting date
-- A beautifully formatted 260-day calendar grouped into 13-day trecenas (weeks)
-- Each day showing its Tonalpohualli number (1-13) and day-sign (e.g., Cipactli, Ehecatl, Calli)
-- A notes area for each week to record personal observations
-- A print-friendly version for physical use
-- A CSV download option for digital record-keeping or analysis
+<ul>
+  <li>A date input field to select any starting date</li>
+  <li>A beautifully formatted 260-day calendar grouped into 13-day trecenas (weeks)</li>
+  <li>Each day showing its Tonalpohualli number (1-13) and day-sign (e.g., Cipactli, Ehecatl, Calli)</li>
+  <li>A notes area for each week to record personal observations</li>
+  <li>A print-friendly version for physical use</li>
+  <li>A CSV download option for digital record-keeping or analysis</li>
+</ul>
 
 🧬 <h1>The ERAP2 Odyssey</h1>
 
