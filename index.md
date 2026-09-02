@@ -8,7 +8,7 @@ A molino is a mill—a machine that transforms raw material into something nouri
 
 I am a mixed-race scientist, Mexican-American and born in the Seattle area. My ancestors come from both the Old World and this continent—predominantly from Jalisco, Mexico, and Spain. Like many in my position, I am deeply displaced from the mother cultures of my ancestors, tethered instead to the predominant cultures of this specific moment in history.
 
-This project is my attempt to bridge that distance. It takes raw, often suppressed, information and processes it into something useful—just as my elders from both continents processed corn or wheat into sustenance. Along the way, I hope to re-center Indigenous and Traditional Knowledge, re-examine the last 500 years with clear eyes, and imagine a future rooted in environmentalism, compassion, and curiosity.
+This project is my attempt to bridge that distance. It takes raw, often suppressed or inaccessible information and processes it into something useful as my elders from both continents processed corn or wheat into sustenance. Along the way, I hope to re-center Indigenous and Traditional Knowledge, re-examine our collective history, and imagine a future rooted in environmentalism, compassion, and curiosity.
 
 Below is a summary of pages you will find in development.
 
@@ -126,17 +126,6 @@ This page provides a deeper look at the person behind the project—the research
 </ul>
 
 <p><em>Note: This project is currently in development. Bolded items are completed.</em></p>
-
----
-
-## 📋 Quick Summary
-
-| Page | Purpose | Status |
-|------|---------|--------|
-| **Custom Almanac Generator** | Interactive Tonalpohualli calendar tool | In Development |
-| **The ERAP2 Odyssey** | Global genetic history of ERAP2 | In Development |
-| **Project Updates** | Development log and research notes | In Development |
-| **About Me** | Personal background and vision | In Development |
 
 ---
 
