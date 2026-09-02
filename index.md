@@ -12,7 +12,7 @@ This project is my attempt to bridge that distance. It takes raw, often suppress
 
 Below is a summary of pages you will find in development.
 
-##Custom Almanac Generator
+📅 # Custom Almanac Generator
 
 ###Description:
 This interactive tool generates a personalized 260-day Tonalpohualli calendar starting from any date the user chooses. It's designed to encourage observation, reflection, and connection with the ancestral timekeeping traditions of Mesoamerica.
@@ -25,7 +25,7 @@ This interactive tool generates a personalized 260-day Tonalpohualli calendar st
 - A print-friendly version for physical use
 - A CSV download option for digital record-keeping or analysis
 
-##The ERAP2 Odyssey
+🧬 <b>The ERAP2 Odyssey</b>
 - Project Updates
 - About Me
 
