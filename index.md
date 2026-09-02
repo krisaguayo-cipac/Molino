@@ -4,11 +4,28 @@ title: Welcome
 ---
 
 # Welcome to Molino
+A molino is a mill—a machine that transforms raw material into something nourishing. This project is my digital molino.
 
-A 'Molino' is a Mill in spanish. Mills process raw substances to turn them into something useful. This project aims to do something similar. I was inspired by stories by my elders who originate in the foothills and crevices of La Sierra Madre Occidental. As in many traditional villages before the reach of commercialism 
+I am a mixed-race scientist, Mexican-American and born in the Seattle area. My ancestors come from both the Old World and this continent—predominantly from Jalisco, Mexico, and Spain. Like many in my position, I am deeply displaced from the mother cultures of my ancestors, tethered instead to the predominant cultures of this specific moment in history.
 
-- Homepage: index.md
-- Layouts: _layouts/default.html
-- Styles: assets/css/styles.css
+This project is my attempt to bridge that distance. It takes raw, often suppressed, information and processes it into something useful—just as my elders from both continents processed corn or wheat into sustenance. Along the way, I hope to re-center Indigenous and Traditional Knowledge, re-examine the last 500 years with clear eyes, and imagine a future rooted in environmentalism, compassion, and curiosity.
 
-You can edit these files directly on GitHub or clone the repo and push changes.
+Below is a summary of pages you will find in development.
+
+##Custom Almanac Generator
+
+###Description:
+This interactive tool generates a personalized 260-day Tonalpohualli calendar starting from any date the user chooses. It's designed to encourage observation, reflection, and connection with the ancestral timekeeping traditions of Mesoamerica.
+
+###What Users Will Find:
+- A date input field to select any starting date
+- A beautifully formatted 260-day calendar grouped into 13-day trecenas (weeks)
+- Each day showing its Tonalpohualli number (1-13) and day-sign (e.g., Cipactli, Ehecatl, Calli)
+- A notes area for each week to record personal observations
+- A print-friendly version for physical use
+- A CSV download option for digital record-keeping or analysis
+
+##The ERAP2 Odyssey
+- Project Updates
+- About Me
+
