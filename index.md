@@ -15,9 +15,6 @@ The application of mills through ownership mirrors the previously mentioned fram
 This Molino is digital. It does not process grain. It processes what has not been processed—what has been suppressed, left out, or forgotten.
 
 
-Raw m
-
-
 
 The placement
 
