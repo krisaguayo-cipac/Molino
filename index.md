@@ -2,8 +2,8 @@
 layout: default
 title: Welcome
 ---
-
 # Welcome to Molino
+![Alt text](./images/patoli.png)
 Molino is an online repository for open-access civic research and science-education projects. They are made my "Kristopher José Aguayo-Barragán", a scientist and edcuator focused on integrating disparate knowledge systems and histories.
 
 Molino means "mill" in Spanish, the name is inspired by ancient technologies independently developed by cultures all around the world. Mills transform raw materials into something usable. They can serve communities or concentrate power, depending on who owns them and why. This mill aims to disperse power, making previously inaccessible knowledge accessible. 
