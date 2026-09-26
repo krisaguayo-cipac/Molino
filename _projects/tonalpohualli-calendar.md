@@ -19,3 +19,23 @@ This project generates `.ics` calendar files for the Aztec *tonalpohualli* — t
 ## Why it matters
 
 The tonalpohualli was systematically suppressed during the colonial period. This project restores it as a lived, daily practice — not as a museum piece, but as a working calendar that runs alongside the Gregorian one.
+
+## Source Code
+
+The Python scripts that generate these calendars:
+
+- [aztec_calc.py](/tonalpohualli/python/aztec_calc.py) — Tonalpohualli day-sign calculation (Caso correlation)
+- [astro_calc.py](/tonalpohualli/python/astro_calc.py) — Skyfield-based rise/set, moon phase, moon sign, and season tracking
+- [generate_ics.py](/tonalpohualli/python/generate_ics.py) — Builds the `.ics` files for each location
+
+## Download Calendars
+
+Each calendar is an `.ics` file you can import into macOS Calendar, Google Calendar, or any iCal-compatible app.
+
+- [Tonalpohualli — Seattle](/tonalpohualli/calendars/tonalpohualli-seattle.ics)
+- [Tonalpohualli — San Francisco](/tonalpohualli/calendars/tonalpohualli-san-francisco.ics)
+- [Tonalpohualli — Mexico City](/tonalpohualli/calendars/tonalpohualli-mexico-city.ics)
+- [Tonalpohualli — Guadalajara](/tonalpohualli/calendars/tonalpohualli-guadalajara.ics)
+- [Tonalpohualli — Washington DC](/tonalpohualli/calendars/tonalpohualli-washington-dc.ics)
+- [Tonalpohualli — Philadelphia](/tonalpohualli/calendars/tonalpohualli-philadelphia.ics)
+- [Tonalpohualli — Boston](/tonalpohualli/calendars/tonalpohualli-boston.ics)
