@@ -28,14 +28,14 @@ The Python scripts that generate these calendars:
 - [astro_calc.py](/tonalpohualli/python/astro_calc.py) — Skyfield-based rise/set, moon phase, moon sign, and season tracking
 - [generate_ics.py](/tonalpohualli/python/generate_ics.py) — Builds the `.ics` files for each location
 
-## Download Calendars
+## Subscribe to Calendars
 
-Each calendar is an `.ics` file you can import into macOS Calendar, Google Calendar, or any iCal-compatible app.
+Each calendar is available as a live subscription. Click the link for your city to automatically add it to your calendar app (Apple Calendar, Outlook, etc.).
 
-- [Tonalpohualli — Seattle](/tonalpohualli/calendars/tonalpohualli-seattle.ics)
-- [Tonalpohualli — San Francisco](/tonalpohualli/calendars/tonalpohualli-san-francisco.ics)
-- [Tonalpohualli — Mexico City](/tonalpohualli/calendars/tonalpohualli-mexico-city.ics)
-- [Tonalpohualli — Guadalajara](/tonalpohualli/calendars/tonalpohualli-guadalajara.ics)
-- [Tonalpohualli — Washington DC](/tonalpohualli/calendars/tonalpohualli-washington-dc.ics)
-- [Tonalpohualli — Philadelphia](/tonalpohualli/calendars/tonalpohualli-philadelphia.ics)
-- [Tonalpohualli — Boston](/tonalpohualli/calendars/tonalpohualli-boston.ics)
+- [Tonalpohualli — Seattle](webcal://www.molino.digital/tonalpohualli/calendars/tonalpohualli-seattle.ics)
+- [Tonalpohualli — San Francisco](webcal://www.molino.digital/tonalpohualli/calendars/tonalpohualli-san-francisco.ics)
+- [Tonalpohualli — Mexico City](webcal://www.molino.digital/tonalpohualli/calendars/tonalpohualli-mexico-city.ics)
+- [Tonalpohualli — Guadalajara](webcal://www.molino.digital/tonalpohualli/calendars/tonalpohualli-guadalajara.ics)
+- [Tonalpohualli — Washington DC](webcal://www.molino.digital/tonalpohualli/calendars/tonalpohualli-washington-dc.ics)
+- [Tonalpohualli — Philadelphia](webcal://www.molino.digital/tonalpohualli/calendars/tonalpohualli-philadelphia.ics)
+- [Tonalpohualli — Boston](webcal://www.molino.digital/tonalpohualli/calendars/tonalpohualli-boston.ics)
