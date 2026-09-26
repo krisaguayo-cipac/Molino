@@ -11,3 +11,5 @@ header_pages:
   - projects.md
   - about.md
   - contact.md
+titles_from_headings:
+  enabled: false
