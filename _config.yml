@@ -6,3 +6,7 @@ collections:
   projects:
     output: true
     permalink: /projects/:name/
+header_pages:
+  - projects.md
+  - about.md
+  - contact.md
