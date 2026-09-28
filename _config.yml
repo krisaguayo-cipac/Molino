@@ -2,6 +2,7 @@ title: Molino
 url: "https://molino.digital"
 baseurl: ""
 markdown: kramdown
+theme: minima
 collections:
   projects:
     output: true
