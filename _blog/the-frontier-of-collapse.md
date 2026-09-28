@@ -38,7 +38,7 @@ That distinction is not neutral. It was built. It determines whose questions get
 
 I'm building a toolkit for this. It starts with ancient DNA — how genes of the immune system, shaped by plagues, migrations, and famines, produced the public health disparities we live with today. I'm developing instructions to teach the foundational principles of bioinformatics research, so that anyone can follow the same path. But the principle is bigger than one gene. We can take medicine into our own hands and answer the questions our communities need answered. We can read the papers. We can collaborate. We can run the analysis. We can show our work.
 
-Scientific inquiry is a human practice. Humans have been observing their surroundings since before we were human, even before we were primates.  We see scientific inquiry behavior in all types of species. From crows, to whales, octopuses, and Mice. Even bacteriaand fungi have demonstrated the capacity to problem solve. Scientific inquiry is a form of universal culture and access to it should not be stratified along a power disparity. 
+Scientific inquiry is universal. Humans have been observing their surroundings since before we were human, even before we were primates.  We see scientific inquiry behavior in all types of species. From crows, to whales, octopuses, and Mice. Even bacteria and fungi have demonstrated the capacity to problem solve. Scientific inquiry is a form of universal culture and access to it should not be stratified along a power disparity. 
 
 I'm thinking of my DJ friends, bar managers, club promoters — the people who produce art and culture in Seattle — when I say this:
 
