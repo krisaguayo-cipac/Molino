@@ -44,7 +44,7 @@ I'm thinking of my DJ friends, bar managers, club promoters — the people who p
 
 You already know what it feels like to take a practice into your own hands. You didn't wait for recognition to start mixing or developing programming. You learned the craft in your bedroom, played your first set and developed your first program to twelve people, and built something from nothing because the alternative was waiting for permission that was never coming.
 
-I'm not just talking about DJs. I see scientists everywhere. In the club promoter who reads a room and knows exactly when to shift the energy. In the bar manager who tracks the histories and habits of a neighborhood in their head. In the DJ who spends hours digging through archives and adjusting frequencies to make a set cohere. These are research practices. These are analytical minds. They just don't call themselves scientists because no one ever handed them the word.
+I see scientists everywhere. In the club promoter or performer who reads a room and knows exactly when to shift the energy. In the bar manager who tracks the histories and habits of a neighborhood in their head. In the DJ who spends hours digging through archives and adjusting frequencies to make a set cohere. These are research practices. These are analytical minds. They just don't call themselves scientists because no one ever handed them the word.
 
 If you've made it this far, consider this label yours.
 
