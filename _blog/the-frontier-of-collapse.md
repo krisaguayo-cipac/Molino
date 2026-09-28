@@ -1,7 +1,7 @@
 ---
 layout: default
-title: The Frontier of Collapse Is What Ordinary People Will Do: You Are A Scientist
-description: In this essay, I synthesize the general crisis we are experiencing and deliver a call to action (the motivation behind Molino).
+title: "The Frontier of Collapse Is What Ordinary People Will Do: You Are A Scientist"
+description: "In this essay, I synthesize the general crisis we are experiencing and deliver a call to action — the motivation behind Molino."
 date: 2026-09-28
 ---
 # The Frontier of Collapse Is What Ordinary People Will Do: You Are a Scientist
