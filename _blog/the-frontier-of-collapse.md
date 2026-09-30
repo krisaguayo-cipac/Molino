@@ -1,12 +1,12 @@
 ---
 layout: default
-title: The Frontier of Collapse Is What Ordinary People Will Do
-description: You Are a Scientist
+title: "The Frontier of Collapse Is What Ordinary People Will Do: You Are A Scientist"
+description: "In this essay, I synthesize the general crisis we are experiencing and deliver a call to action — the motivation behind Molino."
 date: 2026-09-28
 ---
+# The Frontier of Collapse Is What Ordinary People Will Do: You Are a Scientist
 
-Something in the world is breaking, and it has been breaking for a long time — perhaps since always.
-...Something in the world is breaking, and it has been breaking for a long time — perhaps since always. Each generation builds its life differently from the last, but the shape of that difference is not neutral. We have built a world where comfort and safety, and the industries that manufacture it, produce a populace, often unknowingly complacent to the disruption of those same industries on people who never had the chance to know ease. Not everyone has paid attention. To some degree, that is forgivable; we’ve been kept purposefully distracted by supposed innovation. While no single ordinary person designed this, the collapse has been permitted by systems aimed to accumulate power in the hands of a few. Today we face a world imbalanced, where only a collective awakening can dialogue with the root cause.
+Something in the world is breaking, and it has been breaking for a long time — perhaps since always. Each generation builds its life differently from the last, but the shape of that difference is not neutral. We have built a world where comfort and safety, and the industries that manufacture it, produce a populace, often unknowingly complacent to the disruption of those same industries on people who never had the chance to know ease. Not everyone has paid attention. To some degree, that is forgivable; we’ve been kept purposefully distracted by supposed innovation. While no single ordinary person designed this, the collapse has been permitted by systems aimed to accumulate power in the hands of a few. Today we face a world imbalanced, where only a collective awakening can dialogue with the root cause.
 
 In the local beginning of the general crisis—at least on the American continent—it was Indigenous nations who first saw the collapse of the sacred bonds between humans. Through the depravity of gold-hungry tyrants, through mutilation, rape, displacement, and plague, a regional order led by Native Americans collapsed. Their sovereignty violated. Then the direction of not only the continent, but the world, began to be led by the newcomers — industrious migrants fleeing a collapse of their own adjusted the flow of resources to accumulate wealth amongst their communities, leaving Indigenous nations at the margins of their own continent. 
 
@@ -38,13 +38,13 @@ That distinction is not neutral. It was built. It determines whose questions get
 
 I'm building a toolkit for this. It starts with ancient DNA — how genes of the immune system, shaped by plagues, migrations, and famines, produced the public health disparities we live with today. I'm developing instructions to teach the foundational principles of bioinformatics research, so that anyone can follow the same path. But the principle is bigger than one gene. We can take medicine into our own hands and answer the questions our communities need answered. We can read the papers. We can collaborate. We can run the analysis. We can show our work.
 
-Scientific inquiry is a human practice. Humans have bene observing their surroundings since before we were human, even before we were primates.  We see scientific inquiry behavior in all types of species. From crows, to whales, octopuses, and Mice. Even bacteriaand fungi have demonstrated the capacity to problem solve. Scientific inquiry is a form of universal culture and access to it should not be stratified along a power disparity. 
+Scientific inquiry is universal. Humans have been observing their surroundings since before we were human, even before we were primates.  We see scientific inquiry behavior in all types of species. From crows, to whales, octopuses, and Mice. Even bacteria and fungi have demonstrated the capacity to problem solve. Scientific inquiry is a form of universal culture and access to it should not be stratified along a power disparity. 
 
 I'm thinking of my DJ friends, bar managers, club promoters — the people who produce art and culture in Seattle — when I say this:
 
-You already know what it feels like to take a practice into your own hands. You didn't wait for recognition to start mixing. You learned the craft in your bedroom, played your first set to twelve people, and built something from nothing because the alternative was waiting for permission that was never coming.
+You already know what it feels like to take a practice into your own hands. You didn't wait for recognition to start mixing or developing programming. You learned the craft in your bedroom, played your first set and developed your first program to twelve people, and built something from nothing because the alternative was waiting for permission that was never coming.
 
-I'm not just talking about DJs. I see scientists everywhere. In the club promoter who reads a room and knows exactly when to shift the energy. In the bar manager who tracks the histories and habits of a neighborhood in their head. In the DJ who spends hours digging through archives and adjusting frequencies to make a set cohere. These are research practices. These are analytical minds. They just don't call themselves scientists because no one ever handed them the word.
+I see scientists everywhere. In the club promoter or performer who reads a room and knows exactly when to shift the energy. In the bar manager who tracks the histories and habits of a neighborhood in their head. In the DJ who spends hours digging through archives and adjusting frequencies to make a set cohere. These are research practices. These are analytical minds. They just don't call themselves scientists because no one ever handed them the word.
 
 If you've made it this far, consider this label yours.
 
