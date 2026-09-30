@@ -1,0 +1,28 @@
+---
+layout: default
+title: "What Is DNA?"
+description: "A standalone explainer on the molecule of heredity — its structure, the story of its discovery, and what its history reveals about who gets to produce knowledge."
+date: 2026-09-30
+---
+
+What is DNA?
+Life depends on four macromolecules: proteins, lipids, carbohydrates, and nucleic acids. Each has its own building blocks. DNA—one type of nucleic acid—is built from nucleotides, and all cellular life relies on just four: Adenine, Cytosine, Guanine, and Thymine. These four form two types of base pairs: A pairs with T, and G pairs with C. This pairing rule is what makes DNA readable across deep time. Because A always pairs with T, and G always pairs with C, a single strand carries enough information to reconstruct its partner — which is how ancient DNA fragments can be matched to a reference.
+
+Each nucleotide has three parts: a phosphate group, a sugar (deoxyribose sugar, in DNA), and a nitrogenous base. The phosphate group carries a negative charge because its oxygens have lost their protons, leaving negatively charged O⁻ groups. The nitrogenous base is roughly neutral. When DNA is assembled, two strands follow the structure: phosphate → sugar → base → base ← sugar ← phosphate, with the bases meeting in the middle through hydrogen bonding. The two strands run in opposite directions — one 5′ to 3′, the other 3′ to 5′ — which is why the structure is written with arrows pointing toward each other.
+
+The structure of DNA was solved in 1953, but the story of how it was solved is as revealing as the molecule itself. The key evidence came from Rosalind Franklin, who at 32 was a chemist at King's College London using the methods of X-ray diffraction to explore the structure of DNA. X-ray diffraction works by aiming a beam of X-rays at a crystallized sample; when the rays hit the atoms inside, they scatter, and the pattern they leave on a detector reveals the arrangement of those atoms in three-dimensional space. Franklin's expertise in this technique allowed her to capture images of DNA with unprecedented clarity.
+
+On May 6, 1952, Franklin captured Photo 51, which showed the helical geometry of DNA. She never got the chance to publish her findings. Maurice Wilkins, her colleague at King's, showed Photo 51 to James Watson—who was also working on solving the structure of DNA alongside Francis Crick. Together, in April 1953, Watson and Crick published their paper announcing the helical structure of DNA with only a passing acknowledgment of Rosalind Franklin:
+
+“We have also been stimulated by a knowledge of the general nature of the unpublished experimental results and ideas of Dr. M. H. F. Wilkins, Dr. R. E. Franklin and their co-workers at King's College London.”
+
+Franklin died of cancer at thirty-seven in 1957, never knowing the full extent to which her work had been used, nor how it would impact science for decades to come. Years later in 1962, Watson, Crick, and Wilkins shared the Nobel Prize. Franklin was excluded from the award as the prize is not awarded posthumously—but the deeper injustice is that her contribution was minimized for decades, in part because of Watson's own dismissive portrayal of her in his 1968 memoir:
+
+"there was never lipstick to contrast with her straight black hair…while at the age of thirty-one her dresses showed all the imagination of English blue-stocking adolescents…she would look [better] if she took off her glasses and did something novel with her hair… belligerent…she could not keep her emotions under control…”
+
+Watson's prejudices were not confined to his memoir. In a 2007 interview with The Sunday Times, he said he was "inherently gloomy about the prospect of Africa" because "all our social policies are based on the fact that their intelligence is the same as ours — whereas all the testing says not really." He repeated such claims in a 2019 PBS documentary, stating that the IQ gap between Black and White people is genetic. Cold Spring Harbor Laboratory stripped him of his honorary titles in response, calling his statements "reprehensible" and "unsupported by science." That same year, he told Esquire that "some anti-Semitism is justified," comparing it to anti-Irish sentiment. In a 1997 interview with The Sunday Telegraph, he said that if a "gene for homosexuality" were found, a woman should be allowed to abort the fetus.
+
+Taken together, these remarks describe not just a scientist with controversial opinions, but a man who was shaped by a culture that taught him certain people were worth more than others, and who chose, again and again, across decades, to keep saying so. He was a product of his era, but he was also an agent within it. He could have changed. He was asked to. He refused. What remains is not a nuanced figure with regrettable views, but caricature — a man reduced to the very prejudices he kept insisting were science.
+
+The tools of bioinformatics and aDNA research are not just technical instruments. They carry the assumptions of the fields that built them, including assumptions about who is allowed to produce knowledge and who is merely permitted to assist. The same molecule that revealed our shared ancestry has also been used to justify our division. Watson read DNA as a hierarchy; Franklin read it as a structure. The molecule did not change. The framework did. What this history shows us is that DNA carries no inherent moral instruction — it contains information, not meaning. Meaning is what we bring to it. The question that remains is not what DNA can tell us about each other, but what we choose to do with what it tells us.
+
